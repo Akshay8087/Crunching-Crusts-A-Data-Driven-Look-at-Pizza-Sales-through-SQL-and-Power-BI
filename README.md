@@ -40,6 +40,7 @@ CREATE TABLE pizzas
     pizza_ingredients   TEXT,
     pizza_name          VARCHAR(255)
 );
-sql```
 
-## Import Data
+
+```text
+ajs casc
